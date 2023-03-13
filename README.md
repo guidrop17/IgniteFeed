@@ -3,8 +3,7 @@
 <br>
 <div align="center">
   <a href="#projeto">Projeto</a>  |
-  <a href="#tecnologias">Tecnologias</a>  |
-  <a href="#acesso"><span>Acesso</span></a> 
+  <a href="#tecnologias">Tecnologias</a>
 </div>
 <br>
 <div align="center">
